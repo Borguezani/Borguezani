@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Borguezani 😁
+## Hi, I,m Daniel 😁
 
  <div>
    <a href="https://github.com/Borguezani">
